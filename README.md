@@ -1,2 +1,2 @@
-# piedra---papel-y-tijera
+# piedra---papel-tijera
 juego de piedra papel y tijera
